@@ -1,7 +1,8 @@
 <h1>NAIST<br>
 奈良先端科学技術大学院大学先端科学技術研究科情報科学領域<br>
 </h1>
-----
+
+
 <h2>
 授業リスト<br></h2>
 https://syllabus.naist.jp/subjects/preview_list<br>
