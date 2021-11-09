@@ -25,10 +25,10 @@ https://www.iii.u-tokyo.ac.jp/admissions/master-pastresults<br>
 <br>
         総合分析情報学コース(21)<br>
         Applied computer science course<br>
-
+<br>
         生物統計情報学コース(20)<br>
         Biostatistics and bioinformatics course<br>
-
+<br>
 受け入れ期間<br>
 7 月 6 日(火)～7 月 14 日<br>
 
