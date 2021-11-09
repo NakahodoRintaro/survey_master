@@ -1,0 +1,2 @@
+# [東京理科大学工学研究科情報工学専攻](https://www.tus.ac.jp/academics/graduate_school/engineering/information_computertecnology/)
+# [東京理科大学理工学研究科情報科学専攻](https://www.tus.ac.jp/academics/graduate_school/sciencetechnology/information_sciences/)
