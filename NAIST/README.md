@@ -1,10 +1,12 @@
-NAIST<br>
+<h1>NAIST<br>
 奈良先端科学技術大学院大学先端科学技術研究科情報科学領域<br>
-
-授業リスト<br>
+</h1>
+----
+<h2>
+授業リスト<br></h2>
 https://syllabus.naist.jp/subjects/preview_list<br>
-
-受験について<br>
+<h2>
+受験について<br></h2>
 https://www.naist.jp/admission/exam/diversity.html<br>
 
   1. 本学は，専攻の分野にとらわれず積極的に勉学・研究に取組む意欲のある方，社会で活躍中の研究者，技術者の方など幅広く学生を受け入れています。<br>
